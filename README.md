@@ -13,4 +13,5 @@ Documentation is located [here](https://qiskit-research.github.io/qiskit-researc
 
 ## Contributing
 
-Meticulosly studided a large code and used various data analysis techniques to gain multiple desired ouputs such as energy measurements and states of the protein conformations simultaneously taking care of its Chirality and Interactions
+Meticulosly studied a large code and used various data analysis techniques to gain multiple desired ouputs such as energy measurements and states of the protein conformations simultaneously taking care of its Chirality and Interactions.
+This enabled to gain crucial insights such as probabilites of their states with particular energies.
